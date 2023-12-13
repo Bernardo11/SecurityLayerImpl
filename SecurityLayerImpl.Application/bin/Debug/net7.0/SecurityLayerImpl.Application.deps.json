@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SecurityLayerImpl.Application/1.0.0": {
+        "dependencies": {
+          "SecurityLayerImpl.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SecurityLayerImpl.Application.dll": {}
+        }
+      },
+      "SecurityLayerImpl.Domain/1.0.0": {
+        "runtime": {
+          "SecurityLayerImpl.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecurityLayerImpl.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecurityLayerImpl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

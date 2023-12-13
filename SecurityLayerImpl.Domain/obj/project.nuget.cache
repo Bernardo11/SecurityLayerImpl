@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocoyLI0Ai+9LpvyMZL+HtaR4RDcAjYMTIfrOMkxPFveR4VoIKQnIwpXvSsXVCTxkGUJJW6qTjoOM/mZlVb+dcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\Downloads\\SecurityLayerImpl\\SecurityLayerImpl\\SecurityLayerImpl.Domain\\SecurityLayerImpl.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

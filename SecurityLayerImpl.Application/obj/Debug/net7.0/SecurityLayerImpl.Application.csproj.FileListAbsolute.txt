@@ -1,0 +1,15 @@
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\bin\Debug\net7.0\SecurityLayerImpl.Application.deps.json
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\bin\Debug\net7.0\SecurityLayerImpl.Application.dll
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\bin\Debug\net7.0\SecurityLayerImpl.Application.pdb
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\bin\Debug\net7.0\SecurityLayerImpl.Domain.dll
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\bin\Debug\net7.0\SecurityLayerImpl.Domain.pdb
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.csproj.AssemblyReference.cache
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.AssemblyInfoInputs.cache
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.AssemblyInfo.cs
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.csproj.CoreCompileInputs.cache
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.csproj.CopyComplete
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.dll
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\refint\SecurityLayerImpl.Application.dll
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\SecurityLayerImpl.Application.pdb
+C:\hippo\SecurityLayerImpl\SecurityLayerImpl.Application\obj\Debug\net7.0\ref\SecurityLayerImpl.Application.dll
